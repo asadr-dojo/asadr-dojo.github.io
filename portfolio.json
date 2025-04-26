@@ -1,0 +1,194 @@
+{
+  "name": "Asad Rauf",
+  "label": "Data Analytics Engineer",
+  "image_path": "img/default-image.png",
+  "contact": {
+    "email": "asadrauflashari@gmail.com",
+    "phone": "+4915259821149",
+    "location": "Berlin, Germany"
+  },
+  "summary": "Senior Analytics Engineer with 5+ years of experience building scalable data solutions. Skilled in SQL, dbt, BigQuery, and Airflow. Focused on enabling data-driven growth through clean, reliable infrastructure.",
+  "base_url": "https://asadrauf.com",
+  "social_links": [
+    {
+      "label": "AsadRauf.com",
+      "url": "https://asadrauf.com",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/asad-rauf-46a50061",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/rauf-asad",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Delivery Hero",
+      "position": "Senior Analytics Engineer / Data Engineer / Senior Data Engineering Specialist",
+      "url": "https://www.deliveryhero.com/",
+      "start_date": "03/01/2023",
+      "end_date": "Present",
+      "summary": "Designed, built, and maintained robust and scalable data marts/models, established data governance standards, optimized performance of data pipelines, and collaborated with various stakeholders to deliver impactful data solutions.",
+      "highlights": [
+        "Designed, built, and maintained robust and scalable data marts/models to support complex analyses.",
+        "Established and enforced data quality standards with validation checks and documented data lineage.",
+        "Defined key business metrics and ensured their consistent calculation across the organization.",
+        "Developed documentation and self-serve tools to empower analysts in data access and usage.",
+        "Monitored and optimized data pipelines and queries for performance efficiency.",
+        "Collaborated closely with product teams, data engineers, analysts, and business stakeholders."
+      ]
+    },
+    {
+      "company": "Foodpanda",
+      "position": "Data Engineer",
+      "url": "https://www.foodpanda.com/",
+      "start_date": "04/01/2022",
+      "end_date": "03/01/2023",
+      "summary": "Led GCP migration to reporting layer, optimized dbt models, developed data pipelines, maintained schema integrity, and conducted code reviews to uphold engineering standards.",
+      "highlights": [
+        "Led the migration of country project in GCP to the reporting layer using dbt and Airflow.",
+        "Converted full-load models into incremental models to optimize performance and reduce costs.",
+        "Gathered and documented data requirements across cross-functional teams.",
+        "Developed robust data pipelines to enable efficient table movement into the data warehouse.",
+        "Maintained downstream model integrity by incorporating upstream schema updates.",
+        "Conducted code reviews on GitHub to ensure best practices and project standards."
+      ]
+    },
+    {
+      "company": "Foodpanda",
+      "position": "Data Analyst",
+      "url": "https://www.foodpanda.com/",
+      "start_date": "01/01/2021",
+      "end_date": "03/01/2022",
+      "summary": "Managed and mentored junior analysts, optimized SQL performance, developed revenue simulations, and led data-driven projects to improve key operational KPIs.",
+      "highlights": [
+        "Managed and mentored a team of junior analysts, enhancing team productivity.",
+        "Optimized SQL queries, achieving 0% downtime for critical Tableau dashboards.",
+        "Developed simulations in Python to optimize delivery fees and increase revenue per order.",
+        "Led data and automation projects for operational efficiency and insight generation.",
+        "Improved KPIs like revenue per order and basket size through market basket analysis.",
+        "Automated commission calculations for the commercial team, saving manual hours."
+      ]
+    },
+    {
+      "company": "Beaconhouse Group",
+      "position": "Senior Officer R&D",
+      "url": "https://www.beaconhouse.net/",
+      "start_date": "02/01/2019",
+      "end_date": "01/01/2020",
+      "summary": "Conducted academic data analysis, automated reports, and provided strategic insights through nationwide survey analysis to support education policies.",
+      "highlights": [
+        "Performed exploratory data analysis to support strategic decision-making.",
+        "Designed, analyzed, and reported on nationwide surveys.",
+        "Automated academic reports using Power BI, saving significant manual effort.",
+        "Analyzed student performance data to guide subject selection for A Level exams."
+      ]
+    },
+    {
+      "company": "Beaconhouse Group",
+      "position": "Regional Officer Examinations",
+      "url": "https://www.beaconhouse.net/",
+      "start_date": "01/01/2017",
+      "end_date": "01/01/2019",
+      "summary": "Managed examination operations for 38 branches, led a team of 20 officers, introduced data-driven reporting practices, and collaborated on academic reporting software development.",
+      "highlights": [
+        "Managed examination operations for 38 branches across the central region.",
+        "Led a team of 20 examination officers, ensuring operational excellence.",
+        "Introduced data analysis trends and spearheaded key reporting initiatives.",
+        "Implemented Power BI dashboards to support data-driven decision-making.",
+        "Collaborated with IT to develop local academic reporting software."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "My First Project",
+      "summary": "I will be adding some Analytics Engineering projects soon.",
+      "url": "https://sample.com",
+      "highlights": [
+        "Analytics Engineering Project"
+      ],
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=1",
+          "caption": "random picture so far"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=2",
+          "caption": "random picture so far"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=3",
+          "caption": "random picture so far"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Lahore University of Management Sciences",
+      "location": "Lahore, Pakistan",
+      "url": "https://lums.edu.pk/",
+      "degrees": [
+        "BSc. Honors in Economics and Politics (Joint Major)"
+      ],
+      "honors": [],
+      "gpa_cumulative": "",
+      "gpa_major": "",
+      "graduation_date": "06/01/2005"
+    }
+  ],
+  "skills": [
+    {
+      "name": "SQL, Google Bigquery",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Data Build Tool(DBT)",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "Python",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Badminton",
+      "summary": "",
+      "images": []
+    },
+    {
+      "name": "Video Games",
+      "summary": "Dota 2 and Age of Empires 2",
+      "images": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Urdu",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Saraiki",
+      "fluency": "Mother Tongue"
+    },
+    {
+      "language": "Pushto",
+      "fluency": "Speaking Fluency"
+    }
+  ],
+  "references": []
+}
