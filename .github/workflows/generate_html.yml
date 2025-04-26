@@ -1,0 +1,29 @@
+name: Run Python script to generate portfolio
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  run_script_and_push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+      - name: Run script
+        run: |
+          python generate_portfolio.py
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Auto-Update portfolio" || echo "No changes to commit"
+          git push
