@@ -140,7 +140,7 @@
       "honors": [],
       "gpa_cumulative": "",
       "gpa_major": "",
-      "graduation_date": "06/01/2005"
+      "graduation_date": "06/01/2015"
     }
   ],
   "skills": [
@@ -184,10 +184,6 @@
     {
       "language": "Saraiki",
       "fluency": "Mother Tongue"
-    },
-    {
-      "language": "Pushto",
-      "fluency": "Speaking Fluency"
     }
   ],
   "references": []
