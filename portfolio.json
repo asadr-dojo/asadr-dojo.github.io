@@ -107,26 +107,11 @@
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "I will be adding some Analytics Engineering projects soon.",
-      "url": "https://sample.com",
-      "highlights": [
-        "Analytics Engineering Project"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "random picture so far"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "random picture so far"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "random picture so far"
-        }
-      ]
+      "title": "This Website",
+      "summary": "My portfolio website.",
+      "url": "https://github.com/rauf-asad/rauf-asad.github.io",
+      "highlights": [],
+      "images": []
     }
   ],
   "education": [
